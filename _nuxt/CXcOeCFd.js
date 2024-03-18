@@ -1,0 +1,1 @@
+import{l as c,b as n,c as t,a5 as o}from"./DyuLLldy.js";const r={};function a(e,s){return n(),t("code",null,[o(e.$slots,"default",{},void 0,!0)])}const d=c(r,[["render",a],["__scopeId","data-v-9fec2c2f"]]);export{d as default};
